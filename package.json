@@ -1,0 +1,16 @@
+{
+  "name": "guia-hoteles",
+  "version": "1.0.0",
+  "description": "nuestro primer proyecto de nodejs",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://Jesuscastroti@bitbucket.org/Jesuscastroti/guia-hoteles.git"
+  },
+  "author": "Jesus Castro",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/Jesuscastroti/guia-hoteles#readme"
+}
